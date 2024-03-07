@@ -3,17 +3,17 @@
 ## Cricket Player Performance Analysis for T20 Games
 ### Installation:
 #### Google Colab:
-Open your web browser and go to Google Colab.
-Sign in with your Google account.
-Create a new notebook or upload an existing notebook from your local machine.
-You're now ready to use Google Colab for your cricket player performance analysis.
+1.Open your web browser and go to Google Colab.
+2.Sign in with your Google account.
+3.Create a new notebook or upload an existing notebook from your local machine.
+4.You're now ready to use Google Colab for your cricket player performance analysis.
                                 (or)
 #### Jupyter Notebook:
-Install Anaconda, a Python distribution that includes Jupyter Notebook, by following the instructions on the official Anaconda website.
-Once Anaconda is installed, open Anaconda Navigator.
-Launch Jupyter Notebook from the Navigator.
-Create a new notebook or upload an existing notebook.
-You're now ready to use Jupyter Notebook for your cricket player performance analysis.
+1.Install Anaconda, a Python distribution that includes Jupyter Notebook, by following the instructions on the official Anaconda website.
+2.Once Anaconda is installed, open Anaconda Navigator.
+3.Launch Jupyter Notebook from the Navigator.
+4.Create a new notebook or upload an existing notebook.
+5.You're now ready to use Jupyter Notebook for your cricket player performance analysis.
 ## Cricket Player Performance Analysis for T20 Games
 ### How the Code Works:
 #### 1. Data Retrieval and Preprocessing:
